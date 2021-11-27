@@ -1,0 +1,63 @@
+ const beautis = 
+     [
+         {
+             id: 1,
+             displayName : 'Divine Tongue',
+             fullName : {
+                 firstName: "Erina",
+                 lastName :'Nakiri'
+             },
+             anime: 'Shokugeki no Souma',
+             img: 'https://i.pinimg.com/originals/4e/80/32/4e80329b91c553764f61372f2ea2c064.jpg'
+         },
+         {
+             id: 2,
+             displayName: 'Scarlet Princess',
+             fullName: {
+                 firstName: 'Rias',
+                 lastName: 'Gremory'
+             },
+             anime: 'High School DxD',
+             img: 'http://images6.fanpop.com/image/photos/41800000/Rias-Gremory-High-School-DxD-rias1297-41834763-800-1180.jpg'
+         },
+         {
+             id: 3,
+             displayName: 'Wonder Woman',
+             fullName: {
+                 firstName: 'Diana',
+                 lastName: ''
+             },
+             anime: 'Justice League' ,
+             img: 'https://www.pngitem.com/pimgs/m/74-743940_wonder-woman-wonder-woman-justice-league-animated-series.png'
+         },
+         {
+             id: 4,
+             displayName: 'The Cruel Princess',
+             fullName: {
+                 firstName : 'Aki',
+                 lastName : 'Adagaki'
+             },
+             anime: 'Masamune-kun No Revange',
+             img: 'https://pm1.narvii.com/6387/f7fbca98967f181b1e405f96c95b7e1797391378_hq.jpg'
+         },
+         {
+             id: 5,
+             displayName: '',
+             fullName: {
+                 firstName: 'Ichika',
+                 lastName : 'Nakano'
+             },
+             anime: 'Go Toubun no Hanayome',
+             img: 'https://pbs.twimg.com/media/E2ffSdUWEAkU14d.jpg
+         },
+         {
+             id: 6,
+             displayName: 'Queen of Ice',
+             fullName: {
+                 firstName: 'Esdeath',
+                 lastName: ''
+             },
+             anime: 'Akame Ga Kill',
+             img: 'https://pm1.narvii.com/6304/788f399471788171596aad07861f771d6a33be6b_hq.jpg'
+         }
+     ]
